@@ -8,7 +8,7 @@ $(document).ready(function(){
   });
 
   $('.glyphicon-tag').on('mouseenter',function(){
-    $(this).animate({top: '-10px'},'slow');
+    $(this).animate({top: '-4px'},'slow');
     $(this).closest('.tour').find('.details').fadeIn('slow');
   });
 
