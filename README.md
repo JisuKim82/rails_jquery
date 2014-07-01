@@ -1,0 +1,1 @@
+[![rails-jquery](/app/assets/images/screenshot.png)](http://rails-jquery.herokuapp.com/)
